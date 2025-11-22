@@ -12,7 +12,7 @@
 
 # **图片上传类**
 
-### **[Luscious]([https://vkvideo.ru/](https://www.luscious.net/))**
+### **[Luscious](https://www.luscious.net/)**
 ```
 建于2016，大名鼎鼎的色图上传站，二/三次元都可上传，排版也契合（尤其是图集）
 
