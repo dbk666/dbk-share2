@@ -129,7 +129,7 @@ pmv即porn music video（带bgm的片）。
 
 ### **[Hgamefree](https://hgamefree.info)**
 ```
-本地游戏类游戏上传站。
+下载类游戏上传站。
 ```
 
 # **小说上传类**
